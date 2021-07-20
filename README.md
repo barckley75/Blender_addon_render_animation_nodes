@@ -11,3 +11,7 @@ After installed you'll find the button in the Properties panel.
 Just press the button, it will render the animation frames set in your timeline, frame by frame.
 
 It works only with sequence images (jpg, png, ect). If you choose, e.g. a video extension will not work.
+
+<h3>How to install an addon in Blender.</h3>
+Under Edit menu, choose Edit > Preferences > Addon > Install
+Browse to the file render.py you just download and install. Activate it. You've done.
